@@ -1,0 +1,18 @@
+[0606/212756.992:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.106:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.106:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.108:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.108:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.108:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.109:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.110:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.110:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.110:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.111:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.111:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.112:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.112:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.112:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.112:WARNING:thread_snapshot_minidump.cc(89)] Snapshot X86 context support has no unit tests.
+[0606/212757.113:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value e44b6f141abc4371acd38eca7b8150d2
+[0606/212801.534:ERROR:crash_report_database_win.cc(828)] DeleteFile C:\Users\Bardell\AppData\Local\Yandex\YandexBrowser\User Data\Crashpad\reports\69a0a1d5-381c-4eb5-9b9e-fabb3db57065.dmp: ??????? ?? ????? ???????? ?????? ? ?????, ??? ??? ???? ???? ????? ?????? ?????????. (0x20)
